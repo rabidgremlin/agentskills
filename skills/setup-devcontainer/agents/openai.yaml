@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Devcontainer"
+  short_description: "Create a minimal Codex devcontainer"
+  default_prompt: "Use $setup-devcontainer to add the standard Codex devcontainer files to this project."
